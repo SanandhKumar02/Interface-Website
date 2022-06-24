@@ -9,7 +9,11 @@
 
 Interface Community - Website [Link](https://interface-community.netlify.app/)
 
-<iframe src="./assets/1.mp4"></iframe>
+
+
+https://user-images.githubusercontent.com/72318041/175500254-0eb72777-e49c-479b-afb2-3344e21b56d7.mp4
+
+
 
 ## Contributors
 
